@@ -1,4 +1,4 @@
-package com.inigomoreno.springjwtauth.security;
+package com.inigomoreno.springjwtauth.security.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
